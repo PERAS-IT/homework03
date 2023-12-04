@@ -36,9 +36,9 @@ header {
     width: 1.5rem;
     height: 1rem;
     border-radius: 50%;
-    position: fixed;
-    top: 10px;
-    right: 230px;
+    position: absolute;
+    top: 2%;
+    right: 20%;
     text-align: center;
     vertical-align: center;
     font-size: 10px;
